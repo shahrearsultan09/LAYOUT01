@@ -1,0 +1,73 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(88,139,255);;
+    height: 50px;
+    text-align: center;
+}
+.banner{
+    background-color: burlywood;
+    height: 200px;
+    text-align: center;
+
+}
+.main{
+    display: flex;
+}
+.firstservice{
+    background-color: rgb(243, 60, 151);
+    width: 33.5%;
+    height: 175px;
+    
+}
+.secondservice{
+    background-color: coral;
+    width: 33.5%;
+    height: 175px;
+   
+}
+.thirdservice{
+    background-color: goldenrod;
+    width: 33.5%;
+    height: 175px;
+
+}
+.worksite{
+    display: flex;
+    
+}
+.work01{
+    color: darkslateblue;
+    background-color: darkslateblue;
+    width: 25%;
+    height: 140px;
+}
+.work02{
+    color: rgb(240, 150, 34);
+    background-color: rgb(240, 150, 34);
+    width: 25%;
+    height: 140px;
+}
+.work03{
+    color: rgb(123, 133, 126);
+    background-color: rgb(123, 133, 126);
+    width: 25%;
+    height: 140px;
+
+}
+.work04{
+    color: rgb(168, 10, 84);
+    background-color: rgb(168, 10, 84);
+    width: 25%;
+    height: 140px;
+}
+.footer{
+    text-align: center;
+    width: 100%;
+    background-color:rgb(88,139,255);
+    height: 70px;
+}
